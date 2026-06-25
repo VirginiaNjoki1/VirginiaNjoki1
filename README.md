@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Virginia Njoki Maina 👋
 
-<!--
-**VirginiaNjoki1/VirginiaNjoki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Customer Analytics | Business Intelligence
 
-Here are some ideas to get you started:
+I help businesses transform raw data into actionable insights that improve customer retention, increase revenue, and support smarter decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+
+* Analyze customer behavior and purchasing patterns
+* Build dashboards and automated reports
+* Identify opportunities for business growth
+* Turn complex data into clear business insights
+
+### Skills
+
+* Microsoft Excel
+* SQL
+* Python
+* Power BI
+* Customer Analytics
+* Business Intelligence
+* Data Visualization
+
+### Featured Projects
+
+📊 Customer Segmentation Analysis
+
+📈 MSME Customer Analytics Dashboard
+
+🔍 Sales Claim Fraud Detection System
+
+👥 Customer Retention Analysis
+
+💰 Customer Lifetime Value Analysis
+
+### Currently Learning
+
+* Advanced Customer Analytics
+* Predictive Modeling
+* Business Strategy Through Data
+
+### Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/virginia-maina-280727306](http://www.linkedin.com/in/virginia-maina-280727306)
+* Email: [virginiaray336@gmail.com](mailto:virginiaray336@gmail.com)
+
+"Helping businesses grow through data-driven insights."
