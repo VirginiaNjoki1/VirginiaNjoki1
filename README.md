@@ -4,7 +4,7 @@
 
 > "In God we trust. All others must bring data."
 
-— W. Edwards Deming
+        — W. Edwards Deming
 
 Data tells a story. My job is to make sure businesses can act on it.
 
