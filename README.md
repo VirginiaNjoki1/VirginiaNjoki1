@@ -6,8 +6,6 @@
 
 I help businesses transform raw data into actionable insights that improve customer retention, increase revenue, and support smarter decision-making.
 
-I help businesses transform raw data into actionable insights that improve customer retention, increase revenue, and support smarter decision-making.
-
 ### What I Do
 
 * Analyze customer behavior and purchasing patterns
