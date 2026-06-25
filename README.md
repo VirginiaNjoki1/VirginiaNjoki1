@@ -1,3 +1,5 @@
+<img width="800" height="800" alt="git" src="https://github.com/user-attachments/assets/60358ca8-edd1-415a-8aa3-1fa90b070777" />
+
 # Hi, I'm Virginia N. Maina 👋
 
 ## Data Analyst | Customer Analytics | Business Intelligence
