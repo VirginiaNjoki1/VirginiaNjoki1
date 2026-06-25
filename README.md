@@ -2,7 +2,7 @@
 
 ## Data Analyst | Customer Analytics | Business Intelligence
 
-> "In God we trust. All others must bring data."
+         > "In God we trust. All others must bring data."
 
         — W. Edwards Deming
 
