@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="git" src="https://github.com/user-attachments/assets/60358ca8-edd1-415a-8aa3-1fa90b070777" />
+<img width="1536" height="1024" alt="f0950455-3d23-4d1f-94c6-12d83dfae1e0" src="https://github.com/user-attachments/assets/2eb4c0eb-0d1d-4c2c-a25d-f26a44046601" />
 
 # Hi, I'm Virginia N. Maina 👋
 
