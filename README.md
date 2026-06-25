@@ -2,6 +2,10 @@
 
 ## Data Analyst | Customer Analytics | Business Intelligence
 
+> Data tells a story. My job is to make sure businesses can act on it.
+
+I help businesses transform raw data into actionable insights that improve customer retention, increase revenue, and support smarter decision-making.
+
 I help businesses transform raw data into actionable insights that improve customer retention, increase revenue, and support smarter decision-making.
 
 ### What I Do
